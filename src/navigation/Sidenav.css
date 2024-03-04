@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  z-index: 0;
+  z-index: 1;
 }
 
 .sidenav__logo {
@@ -35,8 +35,8 @@
 }
 
 .side__button > span {
-  font-size: 18px;
-  font-weight: bolder;
+  font-size: 15px;
+
   margin-left: 10px;
 }
 

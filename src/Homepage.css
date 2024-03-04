@@ -4,6 +4,7 @@
 }
 
 .homepage__nav {
+  position: relative;
   flex: 0.2;
 }
 
